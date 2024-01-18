@@ -29,3 +29,8 @@ This React Native application is a job search app designed for showcasing skills
 
 - Node.js: Ensure Node.js is installed on your machine.
 - React Native CLI: Install the React Native command-line interface.
+
+---
+
+![Screenshot_React_Native](https://github.com/SarkissArmaniUS/React-Native_Jobs/assets/97789627/8fbf97c3-0737-42dc-b67b-951ad28502a8)
+
