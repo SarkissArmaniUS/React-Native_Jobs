@@ -32,5 +32,5 @@ This React Native application is a job search app designed for showcasing skills
 
 ---
 
-![Screenshot_React_Native](https://github.com/SarkissArmaniUS/React-Native_Jobs/assets/97789627/8fbf97c3-0737-42dc-b67b-951ad28502a8)
+![Screenshot_React_Native](https://github.com/SarkissArmaniUS/React-Native_Jobs/assets/97789627/8fbf97c3-0737-42dc-b67b-951ad28502a8)|width=100
 
